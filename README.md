@@ -1,4 +1,4 @@
-# Appquest Kotlin Metaldetector skeleton app
+# Appquest Kotlin memory skeleton app
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.ti.bfh.ch/team-ulrich/appquest-kotlin-metaldetector.git
+git remote add origin https://gitlab.ti.bfh.ch/team-ulrich/appquest-kotlin-memory.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.ti.bfh.ch/team-ulrich/appquest-kotlin-metaldetector/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.ti.bfh.ch/team-ulrich/appquest-kotlin-memory/-/settings/integrations)
 
 ## Collaborate with your team
 

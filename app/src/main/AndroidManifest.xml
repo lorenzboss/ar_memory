@@ -16,13 +16,13 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MetalDetector"
+        android:theme="@style/Theme.memory"
         tools:targetApi="33">
         <activity
             android:name=".MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="true"
-            android:theme="@style/Theme.MetalDetector.Fullscreen">
+            android:theme="@style/Theme.memory.Fullscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -33,7 +33,7 @@
             android:name=".CameraActivity"
             android:exported="false"
             android:label="@string/camera_activity"
-            android:theme="@style/Theme.MetalDetector">
+            android:theme="@style/Theme.memory">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.DEFAULT" />
